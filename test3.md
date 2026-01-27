@@ -4,4 +4,4 @@
 - test123
 - git merge
 - git push
-  git commit
+- git commit
